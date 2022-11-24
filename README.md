@@ -1,2 +1,3 @@
-# -Integrative-Data-Analytics
-Python Demo
+# Integrative-Data-Analytics
+* Python Demo
+* For students 
