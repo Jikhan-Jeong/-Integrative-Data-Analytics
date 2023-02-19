@@ -1,8 +1,7 @@
 ---
-# Integrative-Data-Analytics
+# Data-Analytics Using Python
 ---
 * Name: JJ
-* Date: 11-29-2022
-* Goal: Python Demo for our students
+
 
 
